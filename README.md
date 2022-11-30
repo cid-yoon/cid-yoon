@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 
 
 ## 📊 stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cid-yoon&show_icons=true&hide=stars&count_private=true&show_icons=true&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cid-yoon&show_icons=true&hide=stars&count_private=true&show_icons=true&theme=radical)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cid-yoon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cid-yoon&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> Badge</h2>
 <!--START_SECTION:badges-->
