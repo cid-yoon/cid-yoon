@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </div>  
 
 <!--START_SECTION:badges-->
-[![AWS SAA-002](https://www.credly.com/badges/447838b7-87ce-466f-a14a-5ff007034c45/public_url)](https://www.credly.com/badges/447838b7-87ce-466f-a14a-5ff007034c45/public_url)
+[![AWS SAA-002](https://www.credly.com/badges/447838b7-87ce-466f-a14a-5ff007034c45/public_url](https://www.credly.com/badges/447838b7-87ce-466f-a14a-5ff007034c45/public_url)
 <!--END_SECTION:badges-->
 
 
