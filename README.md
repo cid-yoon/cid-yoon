@@ -44,9 +44,7 @@ Here are some ideas to get you started:
   <br>
 </div>  
 
-
-![aws-badge](https://www.credly.com/badges/447838b7-87ce-466f-a14a-5ff007034c45/public_url)
-
+![data](https://www.credly.com/badges/447838b7-87ce-466f-a14a-5ff007034c45/public_url)
 
 
 ## 📊 stats
