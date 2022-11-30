@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </div>  
 
 
-[[<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="447838b7-87ce-466f-a14a-5ff007034c45" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>](https://www.credly.com/badges/447838b7-87ce-466f-a14a-5ff007034c45/public_url)](https://www.credly.com/badges/447838b7-87ce-466f-a14a-5ff007034c45/public_url)
+[<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="447838b7-87ce-466f-a14a-5ff007034c45" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>](https://www.credly.com/badges/447838b7-87ce-466f-a14a-5ff007034c45/public_url)](https://www.credly.com/badges/447838b7-87ce-466f-a14a-5ff007034c45/public_url)
 
 
 
