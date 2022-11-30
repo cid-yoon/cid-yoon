@@ -44,9 +44,7 @@ Here are some ideas to get you started:
   <br>
 </div>  
 
-<!--START_SECTION:badges-->
-<img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="drawing" width="200"/>
-<!--END_SECTION:badges-->
+
 
 
 ## 📊 stats
@@ -54,3 +52,7 @@ Here are some ideas to get you started:
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cid-yoon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<h2> Badge</h2>
+<!--START_SECTION:badges-->
+<img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="drawing" width="128"/>
+<!--END_SECTION:badges-->
