@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </div>  
 
 <!--START_SECTION:badges-->
-![saa-002](https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
+![saa-002](https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png){width=250px}
 <!--END_SECTION:badges-->
 
 
