@@ -56,8 +56,11 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cid-yoon&show_icons=true&hide=stars&count_private=true&show_icons=true&theme=radical)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cid-yoon&layout=compact&theme=radical&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ ## Week
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cid-yoon)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2> Badge</h2>
+## Badge
 <!--START_SECTION:badges-->
 <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="drawing" width="128"/>
 <!--END_SECTION:badges-->
