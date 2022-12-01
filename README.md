@@ -22,6 +22,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/c%23-7F52FF?style=for-the-badge&logo=csharp&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/go-7F52FF?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-232F3E?style=for-the-badge&logo=csharp&logoColor=white"> 
   <br>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white"> 
@@ -37,6 +39,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> 
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">  
   <img src="https://img.shields.io/badge/Amazon ECS-6DB33F?style=for-the-badge&logo=Amazon EC2&logoColor=white">  
+  <img src="https://img.shields.io/badge/Amazon Lambda-6DB33F?style=for-the-badge&logo=Amazon EC2&logoColor=white">  
   <br>  
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">   
   <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"> 
