@@ -22,12 +22,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/c%23-7F52FF?style=for-the-badge&logo=csharp&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/go-7F52FF?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-232F3E?style=for-the-badge&logo=csharp&logoColor=white"> 
+  <img src="https://img.shields.io/badge/go-7F52FF?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-232F3E?style=for-the-badge&logo=javascript&logoColor=white"> 
   <br>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white"> 
   <img src="https://img.shields.io/badge/JPA-2EB12F?style=for-the-badge&logo=JPA&logoColor=white"> 
+  <img src="https://img.shields.io/badge/vue-6DB33F?style=for-the-badge&logo=vue&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring%20Data%20JPA-1YB12F?style=for-the-badge&logo=JPA&logoColor=white">
   <img src="https://img.shields.io/badge/QueryDsl-232F3E?style=for-the-badge&logo=QueryDsl&logoColor=white"> 
   <br>
