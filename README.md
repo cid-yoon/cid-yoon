@@ -34,6 +34,7 @@ Here are some ideas to get you started:
   <br>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> 
   <img src="https://img.shields.io/badge/Restdocs-6DB33F?style=for-the-badge&logo=Restdocs&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Terraform-3776AB?style=for-the-badge&logo=Terraform&logoColor=white"> 
   <br>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img alt="Docker" src="https://img.shields.io/badge/h2-CC0200?style=for-the-badge&logo=h2&logoColor=white" />
@@ -54,7 +55,7 @@ Here are some ideas to get you started:
 ## 📊 stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cid-yoon&show_icons=true&hide=stars&count_private=true&show_icons=true&theme=radical)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cid-yoon&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cid-yoon&layout=compact&theme=radical&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> Badge</h2>
 <!--START_SECTION:badges-->
