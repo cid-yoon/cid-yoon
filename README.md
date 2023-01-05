@@ -58,7 +58,7 @@ Here are some ideas to get you started:
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cid-yoon&layout=compact&theme=radical&hide=html)](https://github.com/anuraghazra/github-readme-stats)
  
  ## Week
- [![cid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cid)](https://github.com/anuraghazra/github-readme-stats)
+ [![cid's wakatime stats](https://wakatime.com/badge/user/3edc177d-5888-48bf-adbf-b88d0f3f6724.svg)](https://wakatime.com/@3edc177d-5888-48bf-adbf-b88d0f3f6724)
 
 ## Badge
 <!--START_SECTION:badges-->
