@@ -1,4 +1,5 @@
 ### Hi there 👋
+💬 Ask me about connector!
 
 <!--
 **cid-yoon/cid-yoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,24 +24,31 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/go-7F52FF?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-232F3E?style=for-the-badge&logo=javascript&logoColor=white"> 
+
   <br>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white"> 
   <img src="https://img.shields.io/badge/JPA-2EB12F?style=for-the-badge&logo=JPA&logoColor=white"> 
-  <img src="https://img.shields.io/badge/vue-6DB33F?style=for-the-badge&logo=vue&logoColor=white"> 
+
   <img src="https://img.shields.io/badge/Spring%20Data%20JPA-1YB12F?style=for-the-badge&logo=JPA&logoColor=white">
   <img src="https://img.shields.io/badge/QueryDsl-232F3E?style=for-the-badge&logo=QueryDsl&logoColor=white"> 
+  <br>
+  <img src="https://img.shields.io/badge/javascript-232F3E?style=for-the-badge&logo=javascript&logoColor=white"> 
+  <img src="https://img.shields.io/badge/vue-6DB33F?style=for-the-badge&logo=vue&logoColor=white">
+  <img src="https://img.shields.io/badge/nodejs-7F52FF?style=for-the-badge&logo=go&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> 
   <img src="https://img.shields.io/badge/Restdocs-6DB33F?style=for-the-badge&logo=Restdocs&logoColor=white"> 
   <img src="https://img.shields.io/badge/Terraform-3776AB?style=for-the-badge&logo=Terraform&logoColor=white"> 
   <br>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img alt="Docker" src="https://img.shields.io/badge/h2-CC0200?style=for-the-badge&logo=h2&logoColor=white" />
+  <img src="https://img.shields.io/badge/h2-CC0200?style=for-the-badge&logo=h2&logoColor=white" />
+  <img src="https://img.shields.io/badge/mssql-2479A1?style=for-the-badge&logo=mssql&logoColor=white"> 
+  <br>
+  <img src="https://img.shields.io/badge/Amazon ECS-6DB33F?style=for-the-badge&logo=Amazon EC2&logoColor=white">  
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> 
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">  
-  <img src="https://img.shields.io/badge/Amazon ECS-6DB33F?style=for-the-badge&logo=Amazon EC2&logoColor=white">  
+
   <img src="https://img.shields.io/badge/Amazon Lambda-6DB33F?style=for-the-badge&logo=Amazon EC2&logoColor=white">  
   <br>  
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">   
