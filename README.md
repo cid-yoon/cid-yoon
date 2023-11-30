@@ -1,5 +1,6 @@
 ### Hi there 👋
-💬 Ask me about connector!
+
+I'm SoftwareEngineer and Connector
 
 <!--
 **cid-yoon/cid-yoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
