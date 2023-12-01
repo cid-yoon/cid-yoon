@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm SoftwareEngineer and Connector
+My current interest is to learn Kubernetes quickly
 
 <!--
 **cid-yoon/cid-yoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
