@@ -37,13 +37,14 @@ Here are some ideas to get you started:
 
   <img src="https://img.shields.io/badge/h2-CC0200?style=for-the-badge&logo=h2&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mssql-2479A1?style=for-the-badge&logo=mssql&logoColor=white"> 
   <img src="https://img.shields.io/badge/QueryDsl-232F3E?style=for-the-badge&logo=QueryDsl&logoColor=white"> 
   <img src="https://img.shields.io/badge/Restdocs-6DB33F?style=for-the-badge&logo=Restdocs&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mssql-2479A1?style=for-the-badge&logo=mssql&logoColor=white"> 
   <br>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> 
   <img src="https://img.shields.io/badge/Terraform-3776AB?style=for-the-badge&logo=Terraform&logoColor=white"> 
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> 
+  <img src="https://img.shields.io/badge/k8s-7F52FF?style=for-the-badge&logo=k8s&logoColor=white"> 
   <br>  
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">   
   <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"> 
