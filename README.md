@@ -66,11 +66,9 @@ Here are some ideas to get you started:
 <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="drawing" width="128"/>
 <!--END_SECTION:badges-->
 
-## Velog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=cid-yoon)](https://velog.io/@cid-yoon) 
-
-### 최근 글
+## 최근 글
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cid-yoon)](https://velog-readme-stats.vercel.app/api/redirect?name=cid-yoon)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=cid-yoon)](https://velog.io/@cid-yoon) 
 
 
 
